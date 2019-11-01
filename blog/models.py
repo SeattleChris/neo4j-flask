@@ -10,6 +10,7 @@ password = os.environ.get('NEO4J_PASSWORD')
 
 graph = Graph(url + '/db/data/', username=username, password=password)
 
+
 class User:
     def __init__(self, username):
         self.username = username

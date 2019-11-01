@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#24320A",
+    "titleBar.activeBackground": "#32460E",
+    "titleBar.activeForeground": "#F7FCEE"
+  },
+  "python.pythonPath": "/home/chris/.local/share/virtualenvs/neo4j-flask-HuEqTcqM/bin/python"
+}
